@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Specific 
+Clase2/Ejercicio8_integrador/dataset
+Clase2/Ejercicio8_integrador/resultados
+Clase2/Ejercicio8_integrador/scripts
+
